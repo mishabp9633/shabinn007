@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=178D9F&width=435&lines=This+is+mishabp+9633+;Thank+you+for+stopping+by+%F0%9F%91%8B">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=178D9F&width=435&lines=This+is+Mishab p+;Thank+you+for+stopping+by+%F0%9F%91%8B">
   </a>
 </h1>
 react js developer
@@ -9,8 +9,8 @@ react js developer
 <!-- # Let's Talk Numbers and Stats
 I am into Web & App Development, Internet of Things. -->
 
-<!-- ![Shabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shabin&theme=algolia&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shabin&layout=compact&theme=algolia&show_icons=true)
+<!-- ![Mishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mishab&theme=algolia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishab&layout=compact&theme=algolia&show_icons=true)
  -->
 ## Stack and Tools
 
@@ -38,13 +38,13 @@ I am into Web & App Development, Internet of Things. -->
 # Get in Touch
 
 
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://instagram.com/__shabin.sha?igshid=YmMyMTA2M2Y=)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.instagram.com/mishab_0p/)
 
 
-[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/mohammed-shabin007/)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/>](mailto:shabinshaw@gmail.com)
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/mohammed-mishab-p-032939257/)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/>](mailto:mishabp9633git@gmail.com)
 
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23/>](https://github.com/shabinn007/)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23/>](https://github.com/mishabp9633)
 
 
 
